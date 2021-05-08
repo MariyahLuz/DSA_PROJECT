@@ -365,7 +365,7 @@ export default function Blog() {
               onClick={pop}
               className={classes.button}
               >
-              <span style={{fontWeight: 'bold'}}>{"Denqeue"}</span>
+              <span style={{fontWeight: 'bold'}}>{"Deqeue"}</span>
             </Button>
             <Button
                 variant="contained"
