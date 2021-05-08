@@ -30,7 +30,7 @@ import FavoriteIcon from '@material-ui/icons/Favorite';
 import ShareIcon from '@material-ui/icons/Share';
 import ExpandMoreIcon from '@material-ui/icons/ExpandMore';
 import MoreVertIcon from '@material-ui/icons/MoreVert';
-import List_ from '../assets/list.png'
+import List_ from '../assets/list1.png'
 import ButtonGroup from '@material-ui/core/ButtonGroup';
 import LinkIcon from '@material-ui/icons/Link';
 

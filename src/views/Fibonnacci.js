@@ -138,7 +138,7 @@ export default function Blog() {
   };
   const open = Boolean(anchorEl);
   const id = open ? 'simple-popper' : undefined;
-  const list_video_link = "https://www.youtube.com/watch?v=SjSHVDfXHQ4"
+  const list_video_link = "https://www.youtube.com/watch?v=mVO2dcuR7P0"
 
 
   React.useEffect(() => {

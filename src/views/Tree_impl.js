@@ -110,7 +110,7 @@ export default function Blog() {
   };
   const open = Boolean(anchorEl);
   const id = open ? 'simple-popper' : undefined;
-  const stack_video_link = "https://www.youtube.com/watch?v=CgFVgp_VCN8"
+  const stack_video_link = "https://www.youtube.com/watch?v=1-l_UOFi1Xw"
 
 
   return (

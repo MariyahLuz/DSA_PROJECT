@@ -33,7 +33,7 @@ import ShareIcon from '@material-ui/icons/Share';
 import ExpandMoreIcon from '@material-ui/icons/ExpandMore';
 import MoreVertIcon from '@material-ui/icons/MoreVert';
 import Queue_ from '../assets/queue.png'
-import Linked_ from '../assets/linked.jpeg'
+import Linked_ from '../assets/linked.gif'
 import ButtonGroup from '@material-ui/core/ButtonGroup';
 import LinkIcon from '@material-ui/icons/Link';
 

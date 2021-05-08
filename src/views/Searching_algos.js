@@ -30,7 +30,7 @@ import FavoriteIcon from '@material-ui/icons/Favorite';
 import ShareIcon from '@material-ui/icons/Share';
 import ExpandMoreIcon from '@material-ui/icons/ExpandMore';
 import MoreVertIcon from '@material-ui/icons/MoreVert';
-import Stack_ from '../assets/lin.gif'
+import Stack_ from '../assets/lin1.gif'
 import ButtonGroup from '@material-ui/core/ButtonGroup';
 import LinkIcon from '@material-ui/icons/Link';
 
@@ -122,7 +122,7 @@ export default function Blog() {
   };
   const open = Boolean(anchorEl);
   const id = open ? 'simple-popper' : undefined;
-  const stack_video_link = "https://www.youtube.com/watch?v=CgFVgp_VCN8"
+  const stack_video_link = "https://www.youtube.com/watch?v=C46QfTjVCNU"
 
 
  const linear_searc = (e) => {
