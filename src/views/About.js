@@ -67,7 +67,7 @@ const posts = [
     imageText: 'Image Text',
   },
   {
-    title: 'Katatina Calvin',
+    title: 'Mutatina Atuhire Calvin',
     description:"ux designer",
     image: image6,
     imageText: 'Image Text',
