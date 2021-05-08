@@ -1,0 +1,85 @@
+.App {
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+    height: 1000px;
+}
+
+.background {
+  text-align: center;
+  height: 440px;
+  width: 880px;
+  background-color: #c6c6c6;
+ 
+  border-radius: 15px;
+}
+
+.tower-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.title {
+    font-size: 36px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    padding-top: 20px
+}
+
+.Tower {
+  margin: 0 10px;
+  height: 300px;
+  width: 200px;
+  display: flex;
+  justify-content: center;
+  position: relative;
+}
+
+.rings {
+  display: flex;
+  flex-direction: column-reverse;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  bottom: 26px;
+  margin: 0 auto;
+}
+
+.Ring {
+  width: 140px;
+  height: 20px;
+  background-color: green;
+  margin-top: 5px;
+}
+
+.tower-bg {
+  position: absolute;
+}
+
+.tower-pillar {
+  width: 25px;
+  height: 280px;
+  background-color: #353535;
+  margin: 0 auto;
+}
+
+.tower-base {
+  width: 100px;
+  height: 18px;
+  background-color: #7c7a75;
+  margin: 0 auto;
+}
+
+.controls {
+  display: flex;
+  flex-direction: column;
+  /* width: 200px; */
+  /* background-color: green; */
+}
+
+.buttons > button {
+  width: 50%;
+}
